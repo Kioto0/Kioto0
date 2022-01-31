@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Kioto0
+- 👀 I’m interested in programming and learning new stuff 
+- 🌱 I’m currently learning Python and systems development
+- 💞️ I’m looking to collaborate on new projects and things that can be challenging 
+- 📫 https://weswpsantos123.wixsite.com/curriculo/cv 
